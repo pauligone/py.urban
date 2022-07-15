@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-Polina Mishago
-https://colab.research.google.com/drive/1dIvYyFQALnUgvmTaLojVrzx6HUSKfX8N?usp=sharing
+- Polina Mishago
+- https://colab.research.google.com/drive/1dIvYyFQALnUgvmTaLojVrzx6HUSKfX8N?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
